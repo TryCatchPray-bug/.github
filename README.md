@@ -25,6 +25,8 @@ Nosso foco está em desenvolver projetos que unem **inovação, design e propós
 | 💌 **Suki**          | Templates temáticos para o Dia dos Namorados (com muito amor e CSS ❤️).              |
 | 🧱 **Luca**          | Construtor de páginas — crie, edite e publique com praticidade.                      |
 | 🏢 **Projeto E**     | Sistema de gestão para empresas — contratos, funcionários e serviços em um só lugar. |
+| 🥗 **Amigo Fiel** | Plataforma web que conecta ONGs, protetores e adotantes de forma ética e transparente.  |
+
 
 ---
 
